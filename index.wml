@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+       <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+                            "http://www.wapforum.org/DTD/wml_1.1.xml">
+       <wml>
+        <card id="main" ontimer="http://wap.pyweb.com/ch?pyurl=http%3A%2F%2F%2F">
+         <onevent type="onenterbackward">
+          <prev/>
+         </onevent>
+         <timer value="20"/>
+         <do type="prev" label="Back">
+          <prev/>
+          </do>
+         <p align="center">
+           Site heberge par<br/>
+           <img src="http://wap.pyweb.com/img/amen.wbmp" width="67" height="25" alt="PyWeb.com for Amen"/><br/>
+          by PyWeb.com
+         </p>
+        </card>
+       </wml>

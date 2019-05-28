@@ -1,0 +1,41 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "-"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+*
+
+[Event "Edited game"]
+[Site "OEMCOMPUTER"]
+[Date "2002.10.11"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5
+{
+cavalierb5 pion noir d arriere
+}
+6. Ndb5 d6 7. Bg5
+{
+clouage pour eviter poussee d5
+}
+7... a6 8. Na3 b5 9. Nd5
+{
+case d5 importante cavalier central
+}
+9... Be7 10. Bxf6
+{
+fou prend cavalier pour garder case d5
+}
+10... Bxf6 11. c3
+{
+pion c3 pour recycler cavalier en c2 et controler d4
+}
+11... O-O 12. Be2 Be6 13. Nc2 Rb8 14. O-O Be7 15. Ncb4
+*
+
